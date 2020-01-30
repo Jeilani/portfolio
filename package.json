@@ -20,8 +20,9 @@
     "react-transition-group": "^4.3.0",
     "serve": "^11.3.0"
   },
+  "homepage": "https://jeilani.github.io/Updated-Portfolio-2020/",
   "scripts": {
-    "predeploy": "npm run build ", 
+    "predeploy": "npm run build ",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
