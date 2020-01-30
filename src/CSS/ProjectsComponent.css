@@ -18,7 +18,15 @@
     .projectscomponent #P{
         color: red;
     }
-    #projecttitle{
+    #projecttitle {
+        text-decoration: underline;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-right: 100px;
+    }
+    .projectName{
         text-decoration: underline;
         display: flex;
         flex-direction: column;
@@ -91,6 +99,10 @@
     /* Medium devices (landscape tablets, 768px and up) */
 
 @media only screen and (max-width: 768px) {
+    .projectName{
+        display: none;
+    }
+
     #R, #O, #J, #P{
         font-size: 20px;
     }
@@ -107,6 +119,7 @@
         p {
             width: 100%;
         }
+
 }
 
 @media only screen and (max-width: 600px) {
@@ -114,4 +127,8 @@
         margin-right: 40px;
         transition-duration: .5s;
     }
+    .projectName{
+        display: none;
+    }
+
 }

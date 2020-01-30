@@ -9,7 +9,7 @@ import "../CSS/NameComponent.css"
 
 const NameComponent = () =>{
     return (
-        <div className = "slidein components namecomponent">
+        <div className = "slidein namecomponent">
             <div className="left">
                 <span id="firstlastname">Jeilani Mohamed</span>
                 <span id="jobtitle">Full Stack Web Developer</span>

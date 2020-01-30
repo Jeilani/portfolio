@@ -8,3 +8,10 @@
         align-items: center;
         margin-right: 30px;
     }
+
+    @media only screen and (max-width: 768px) {
+        .abouttitle{
+            display: none;
+        }
+
+    }

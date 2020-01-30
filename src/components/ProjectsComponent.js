@@ -68,7 +68,7 @@ class ProjectsComponent extends React.Component {
     render(){
         return (
             <div className="slidein components projectscomponent">
-                {!this.state.options ? <div id ="projecttitle" onClick={()=>{this.toggleOptions()}}>Back<i class="fas fa-arrow-circle-left"></i></div> : <div id="projecttitle">Projects</div>}
+                {!this.state.options ? <div id ="projecttitle" onClick={()=>{this.toggleOptions()}}>Back<i class="fas fa-arrow-circle-left"></i></div> : <div className="projectName">Projects</div>}
                 {this.renderOptions()}
             </div>
         )

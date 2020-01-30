@@ -1,5 +1,8 @@
 
-
+.namecomponent{
+    display: flex;
+    align-items: center;
+}
     .namecomponent .left{
         display: flex;
         flex-direction: column;
@@ -60,6 +63,11 @@
         display: flex;
         height: 100%;
         flex-direction: column;
+    }
+    .namecomponent .right{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
     }
     .namecomponent .left{
         display: flex;
