@@ -1,0 +1,34 @@
+.contacttitle{
+    display: flex;
+    margin-right: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.fontsincontact{
+    transition-duration: .5s;
+}
+
+.fontsincontact:hover{
+    opacity: 50%;
+    transition-duration: .5s;
+    font-size: 70px;
+}
+
+.contactcontent{
+    outline: none;
+    text-decoration: none;
+}
+
+.fa-linkedin{
+    color: rgb(40,103,178);
+}
+
+.fa-facebook{
+    color: rgb(59, 89, 152);
+}
+.fa-instagram{
+    color: rgb(178, 116, 40);
+}
+.fa-envelope-open{
+    color: rgb(153, 121, 249);
+}

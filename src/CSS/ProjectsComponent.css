@@ -1,0 +1,117 @@
+.components{
+    display: flex;
+    flex-direction: row;
+
+}
+.projectscomponent{
+    height: 100%;
+}
+    .projectscomponent #R{
+        color: rgb(28, 157, 180);
+    }
+    .projectscomponent #O{
+        color: orange;
+    }
+    .projectscomponent #J{
+        color: rgb(31, 129, 83);
+    }
+    .projectscomponent #P{
+        color: red;
+    }
+    #projecttitle{
+        text-decoration: underline;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-right: 100px;
+    }
+.projectsection{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+    .switcharrows{
+        transition-duration: 0.5s;
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        font-size: 40px;
+    }
+        .fa-long-arrow-alt-left:hover{
+            transition-duration: 0.3s;
+            color: red;
+        }
+        .fa-long-arrow-alt-right:hover{
+            transition-duration: 0.3s;
+            color: red;
+        }
+        p{
+            width: 70%;
+        }
+    .imagecontainer{
+        height: 300px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+        #sourcecodebutton{
+            background-color:green;
+            text-decoration: none;
+            border: none;
+            padding: 10px;
+            color: white;
+            transition-duration: 0.5s;
+        }
+        #sourcecodebutton:hover{
+            background-color:orange;
+            transition-duration: 0.5s;
+            border: none;
+            padding: 10px;
+            color: white;
+        }
+        #sourcecodebutton:active, #sourcecodebutton:focus{
+            outline: none;
+        }
+        .pagerendered img{
+            width: 40%;
+            transition-duration: .5s;
+        }
+        .pagerendered img:hover{
+            opacity: 50%;
+            transition-duration: .5s;
+        }
+.indicators{
+    opacity: 70%;
+    font-size: 12px;
+}
+
+
+    /* Medium devices (landscape tablets, 768px and up) */
+
+@media only screen and (max-width: 768px) {
+    #R, #O, #J, #P{
+        font-size: 20px;
+    }
+    .imagecontainer{
+        width: 100%;
+        height: 40%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .pagerendered img{
+        width: 80%;
+    }
+        p {
+            width: 100%;
+        }
+}
+
+@media only screen and (max-width: 600px) {
+    #projecttitle{
+        margin-right: 40px;
+        transition-duration: .5s;
+    }
+}

@@ -1,0 +1,71 @@
+
+
+    .namecomponent .left{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 50%;
+    }
+        #firstlastname{
+            font-size: 30px;
+        }
+        #jobtitle{
+            font-size: 40px;
+            color: green;
+            font-weight: bold;
+            margin-left: 30px;
+        }
+            .arrows .second{
+                opacity: 50%;
+            }
+            .arrows .third{
+                opacity: 25%;
+            }
+
+    .namecomponent .right{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+        .languageContainer{
+            height: 100px;
+            margin: 0;
+        }
+
+.iconcontainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+    .iconcontainer i{
+        margin-right: 4px;
+    }
+
+
+
+
+    img {
+    width: 100px;
+}
+
+@media only screen and (max-width: 768px) {
+    #jobtitle{
+        font-size: 40px;
+        color: green;
+        font-weight: bold;
+        margin-left: 5px;
+    }
+    .namecomponent{
+        display: flex;
+        height: 100%;
+        flex-direction: column;
+    }
+    .namecomponent .left{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+    }
+
+}

@@ -1,0 +1,10 @@
+.aboutcomponent{
+    display: flex;
+    width: 90%;
+}
+    .abouttitle{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 30px;
+    }
