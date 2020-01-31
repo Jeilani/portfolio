@@ -13,8 +13,8 @@ const processingProjects = [
         imgSrc: OldPortfolio,
         alt: "Screenshot of old portfolio",
         p: "I built with this boostrap. I added some cutom styling with flexbox to tweak some design elements that boostrap won't allow. In the second section I used my skills in Processing.js to create an affect where the balls on the screen follow the users mouse. I also made the Dark Mode option as an add-on through jQuery",
-        imageLink: "https://jeilani.github.io/Portfolio/",
-        sourceCodeLink: "https://github.com/Jeilani/Portfolio"
+        imageLink: "https://jeilani.github.io/oldportfolio/",
+        sourceCodeLink: "https://github.com/Jeilani/oldportfolio"
 },
     {
         index: 1,
