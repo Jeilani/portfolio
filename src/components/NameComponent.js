@@ -12,6 +12,7 @@ const NameComponent = () =>{
         <div className = "slidein namecomponent">
             <div className="left">
                 <span id="firstlastname">Jeilani Mohamed</span>
+                <span><i class="fas fa-location-arrow"></i><sub id="subscript">based in Denver, CO</sub></span>
                 <span id="jobtitle">Full Stack Web Developer</span>
                 <div className="arrows">
                     <i class="fas fa-angle-right fa-4x"></i>
