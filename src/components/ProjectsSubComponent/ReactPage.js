@@ -18,7 +18,7 @@ const reactProjects = [
         title: "React Todo App",
         imgSrc: TodoApi,
         alt: "React Todo App",
-        p: "Built this simple on the front end, challenging and fun on the backend with React on the front end and Express routes and MongoDB on the backend",
+        p: "In this project, I used React state to render a new list everytime a fetch responded with a new todo item. The routes were constructed with express and I used mongoose to interact with the MongoDB. The app is going to be deployed with a new live link soon!",
         imageLink: "https://murmuring-citadel-48523.herokuapp.com/",
         sourceCodeLink: "https://github.com/Jeilani/fullstacktodoapp"
 }

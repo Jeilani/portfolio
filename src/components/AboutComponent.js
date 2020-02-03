@@ -21,7 +21,7 @@ const AboutComponent = () =>{
                     in programming.
                 </p>
                 <p>
-                    I graduated with a Bachelor's degree in Public Relations degree recently and even though the research and creative problem-solving
+                    I graduated with a Bachelor's degree in Public Relations recently and even though the research and creative problem-solving
                     was fun, I found more of a passion for programming. However I still carry with me all the assets of a PR specialist when coding website; I prioritze the user's experience.
                 </p>
             </div>
