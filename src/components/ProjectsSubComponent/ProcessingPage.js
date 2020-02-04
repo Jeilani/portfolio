@@ -32,7 +32,7 @@ const processingProjects = [
         alt: "Michael Jordan's crying face",
         p: "Through the processing environment I was able to use object-oriented programming principles to allow a user to test the powers of air jordan himself to score as many points as possible while avoiding the blocking power of shaq in level 2. I also heavily utizilized the power of conditional statements in scene changes",
         imageLink: "https://jeilani.github.io/Portfolio/michaeljordanflappy.html",
-        sourceCodeLink: "https://github.com/Jeilani/Portfolio/blob/master/michaeljordanflappy.js"
+        sourceCodeLink: "https://github.com/Jeilani/oldportfolio/blob/master/michaeljordanflappy.js"
 },
     {
         index: 3,
@@ -40,8 +40,8 @@ const processingProjects = [
         imgSrc: randomgeneratoricon,
         alt: "Thumbnail for Random Generator App",
         p: "Sometimes, randomness is good. Through processing, I was able to deliver a mountain range whose peaks and valleys are never repeated through code. If you want to deliver variety within a piece of content, it's possible. It's as simple as soft-coding your content with variables that have random values everytime you load.",
-        imageLink: "https://jeilani.github.io/Portfolio/randomgenerator.html",
-        sourceCodeLink: "https://github.com/Jeilani/Portfolio/blob/master/michaeljordanflappy.js"
+        imageLink: "https://jeilani.github.io/oldportfolio/randomgenerator.html",
+        sourceCodeLink: "https://github.com/Jeilani/oldportfolio/blob/master/michaeljordanflappy.js"
 },
     {
         index: 4,
@@ -49,8 +49,8 @@ const processingProjects = [
         imgSrc: asteroidthumbnail,
         alt: "Thumbnail for the Asteroid Game",
         p: "Although not the most visually striking animation, this minitiaure spaceship flying through space required strategic brainstorming. and an ability to combine math and code. I was able to tap deep enough into the principles of trigonometry and translate it into code. That combined with object oriented programming and conditional statements creates the rotating spaceship you see here. Check the source code and documentation to see.",
-        imageLink: "https://jeilani.github.io/Portfolio/spaceship.html",
-        sourceCodeLink: "https://github.com/Jeilani/Portfolio/blob/master/spaceship.js"
+        imageLink: "https://jeilani.github.io/oldportfolio/spaceship.html",
+        sourceCodeLink: "https://github.com/Jeilani/oldportfolio/blob/master/spaceship.js"
 }
 ]
 
