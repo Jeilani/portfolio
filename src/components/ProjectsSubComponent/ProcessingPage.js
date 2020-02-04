@@ -22,7 +22,7 @@ const processingProjects = [
         imgSrc: PatatapThumbnail,
         alt: "patatap thumbnail",
         p: "I was able to add another animation library to my arsenal. This one is paper.js. On every letter tap on the keyboard we can play a sound and add a simple graphic with some pretty simple code. It ultimately creates a cool effect that mimicks the famous Patatap website.",
-        imageLink: "https://jeilani.github.io/oldortfolio/Patatap.html",
+        imageLink: "https://jeilani.github.io/oldportfolio/Patatap.html",
         sourceCodeLink: "https://github.com/Jeilani/Patatap-Project"
 },
     {
