@@ -9,8 +9,8 @@ const jqueryProjects = [
         imgSrc: TodoImage,
         alt: "Screenshot of Todo list made in jquery",
         p: "This todo list app utilizes JavaScript and jQuery to implement several bits of functionality that allows one to add and delete things off the todo list.",
-        imageLink: "https://jeilani.github.io/Portfolio/todolist.html",
-        sourceCodeLink: "https://github.com/Jeilani/Portfolio/blob/master/todolist.html"
+        imageLink: "https://jeilani.github.io/oldportfolio/todolist.html",
+        sourceCodeLink: "https://github.com/Jeilani/oldportfolio/blob/master/todolist.html"
 }
 ]
 
