@@ -22,7 +22,7 @@ const processingProjects = [
         imgSrc: PatatapThumbnail,
         alt: "patatap thumbnail",
         p: "I was able to add another animation library to my arsenal. This one is paper.js. On every letter tap on the keyboard we can play a sound and add a simple graphic with some pretty simple code. It ultimately creates a cool effect that mimicks the famous Patatap website.",
-        imageLink: "https://jeilani.github.io/Portfolio/Patatap.html",
+        imageLink: "https://jeilani.github.io/oldortfolio/Patatap.html",
         sourceCodeLink: "https://github.com/Jeilani/Patatap-Project"
 },
     {
@@ -31,7 +31,7 @@ const processingProjects = [
         imgSrc: airjordanthumbnail,
         alt: "Michael Jordan's crying face",
         p: "Through the processing environment I was able to use object-oriented programming principles to allow a user to test the powers of air jordan himself to score as many points as possible while avoiding the blocking power of shaq in level 2. I also heavily utizilized the power of conditional statements in scene changes",
-        imageLink: "https://jeilani.github.io/Portfolio/michaeljordanflappy.html",
+        imageLink: "https://jeilani.github.io/oldportfolio/michaeljordanflappy.html",
         sourceCodeLink: "https://github.com/Jeilani/oldportfolio/blob/master/michaeljordanflappy.js"
 },
     {
