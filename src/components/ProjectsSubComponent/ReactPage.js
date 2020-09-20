@@ -1,11 +1,20 @@
 import React from "react"
 import "../../CSS/ProjectsComponent.css"
+import playTimeScreenshot from "../../images/playTimeScreenshot.png"
 import OrganizerScreenshot from "../../images/OrganizerScreenshot.png"
 import TodoApi from "../../images/TodoAPI.png"
 
-const reactProjects = [
+const reactProjects = [    {
+    index: 0,
+    title: "playTime",
+    imgSrc: playTimeScreenshot,
+    alt: "playTime",
+    p: "Built the front end for a social media app that allows users to set up activites on map. This was seat up using React, React Google Maps, Redux, React Router and React Hooks.",
+    imageLink: "https://jeilani.github.io/playTimee",
+    sourceCodeLink: "https://github.com/Jeilani/playTime"
+},
     {
-        index: 0,
+        index: 1,
         title: "Organizer App",
         imgSrc: OrganizerScreenshot,
         alt: "Organizer App",
@@ -14,7 +23,7 @@ const reactProjects = [
         sourceCodeLink: "https://github.com/Jeilani/OrganizerApp"
 },
     {
-        index: 1,
+        index: 2,
         title: "React Todo App",
         imgSrc: TodoApi,
         alt: "React Todo App",
