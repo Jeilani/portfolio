@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19bf149f4e620f3f5f711f75a9513dd5",
+    "revision": "c276b132bdf8bf31b437ff62cb4c5bef",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "71e4a36286fdcc4b0b8f",
-    "url": "/portfolio/static/css/main.24bb8db8.chunk.css"
+    "revision": "170d3ae5a29677e7b0e1",
+    "url": "/portfolio/static/css/main.4f711eaf.chunk.css"
   },
   {
-    "revision": "36ae003d64dcfac51947",
-    "url": "/portfolio/static/js/2.22501cd2.chunk.js"
+    "revision": "b74a3ee882848888035f",
+    "url": "/portfolio/static/js/2.d16e8174.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/portfolio/static/js/2.22501cd2.chunk.js.LICENSE"
+    "url": "/portfolio/static/js/2.d16e8174.chunk.js.LICENSE"
   },
   {
-    "revision": "71e4a36286fdcc4b0b8f",
-    "url": "/portfolio/static/js/main.48d80c0a.chunk.js"
+    "revision": "170d3ae5a29677e7b0e1",
+    "url": "/portfolio/static/js/main.70a3ad71.chunk.js"
   },
   {
     "revision": "7c1d6db9bb0664054eb7",
     "url": "/portfolio/static/js/runtime-main.b6350b3c.js"
+  },
+  {
+    "revision": "0a767340792819251d9b092a53f6352e",
+    "url": "/portfolio/static/media/CityConnectImage.0a767340.png"
   },
   {
     "revision": "29401c6d0d56d239c6f4c50c1b968b26",
