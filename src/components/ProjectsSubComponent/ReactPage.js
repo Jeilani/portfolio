@@ -3,6 +3,7 @@ import "../../CSS/ProjectsComponent.css"
 import playTimeScreenshot from "../../images/playTimeScreenshot.png"
 import OrganizerScreenshot from "../../images/OrganizerScreenshot.png"
 import TodoApi from "../../images/TodoAPI.png"
+import CityConnectImage from "../../images/CityConnectImage.png"
 
 const reactProjects = [    {
     index: 0,
@@ -13,8 +14,17 @@ const reactProjects = [    {
     imageLink: "https://jeilani.github.io/playTimee",
     sourceCodeLink: "https://github.com/Jeilani/playTime"
 },
+{
+    index: 1,
+    title: "CityFinder",
+    imgSrc: CityConnectImage,
+    alt: "CityFinderApp",
+    p: "Built a React app that implements Google Maps Javascript API and uses a React package called react google places to  implement search functionality. Currently working on setting up the node server to have this functioning on the backend too.",
+    imageLink: "https://cityconnectjeilani.netlify.app/",
+    sourceCodeLink: "https://github.com/Jeilani/CityFinder"
+},
     {
-        index: 1,
+        index: 2,
         title: "Organizer App",
         imgSrc: OrganizerScreenshot,
         alt: "Organizer App",
@@ -23,7 +33,7 @@ const reactProjects = [    {
         sourceCodeLink: "https://github.com/Jeilani/OrganizerApp"
 },
     {
-        index: 2,
+        index: 3,
         title: "React Todo App",
         imgSrc: TodoApi,
         alt: "React Todo App",
