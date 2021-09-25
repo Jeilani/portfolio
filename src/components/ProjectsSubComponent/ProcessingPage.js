@@ -9,15 +9,6 @@ import PatatapThumbnail from "../../images/PatatapThumbnail.png"
 const processingProjects = [
     {
         index: 0,
-        title: "Old Portfolio",
-        imgSrc: OldPortfolio,
-        alt: "Screenshot of old portfolio",
-        p: "I built this with bootstrap. I added some cutom styling with flexbox to tweak some design elements that bootstrap won't allow. In the second section I used my skills in Processing.js to create an affect where the balls on the screen follow the users mouse. I also made the Dark Mode option as an add-on through jQuery",
-        imageLink: "https://jeilani.github.io/oldportfolio/",
-        sourceCodeLink: "https://github.com/Jeilani/oldportfolio"
-},
-    {
-        index: 1,
         title: "PatatapProject",
         imgSrc: PatatapThumbnail,
         alt: "patatap thumbnail",
@@ -26,7 +17,7 @@ const processingProjects = [
         sourceCodeLink: "https://github.com/Jeilani/Patatap-Project"
 },
     {
-        index: 2,
+        index: 1,
         title: "Air Jordan Game",
         imgSrc: airjordanthumbnail,
         alt: "Michael Jordan's crying face",
@@ -35,7 +26,7 @@ const processingProjects = [
         sourceCodeLink: "https://github.com/Jeilani/oldportfolio/blob/master/michaeljordanflappy.js"
 },
     {
-        index: 3,
+        index: 2,
         title: "Random Generator",
         imgSrc: randomgeneratoricon,
         alt: "Thumbnail for Random Generator App",
@@ -44,7 +35,7 @@ const processingProjects = [
         sourceCodeLink: "https://github.com/Jeilani/oldportfolio/blob/master/michaeljordanflappy.js"
 },
     {
-        index: 4,
+        index: 3,
         title: "Asteroid Game",
         imgSrc: asteroidthumbnail,
         alt: "Thumbnail for the Asteroid Game",
